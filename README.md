@@ -36,5 +36,6 @@ pip install docxtpl
 
 Terima kasih telah menggunakan Sertifikat Generator. Semoga program ini bermanfaat untuk mempermudah pembuatan sertifikat di acara-acara Anda.
 Jangan lupa untuk mengikuti saya di media sosial:
+
 Instagram: @daussauruss
 Tiktok: www.tiktok.com/@firdauuussss03
