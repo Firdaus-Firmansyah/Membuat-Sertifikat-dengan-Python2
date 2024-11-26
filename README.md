@@ -31,7 +31,9 @@ Dengan program ini, pengguna dapat membuat sertifikat dengan mudah dan cepat, cu
 
 Instalasi
 Pastikan Python sudah terinstall di sistem kamu, kemudian instal library yang dibutuhkan dengan menjalankan perintah berikut:
+
 pip install openpyxl 
+
 pip install docxtpl
 
 Terima kasih telah menggunakan Sertifikat Generator. Semoga program ini bermanfaat untuk mempermudah pembuatan sertifikat di acara-acara Anda.
