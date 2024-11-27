@@ -2,7 +2,7 @@ import openpyxl
 from docxtpl import DocxTemplate
 import datetime
 
-# Path file Excel dan Word
+# Path file Excel dan Word, GANTI SESUAI DENGAN PATH FILE ANDA
 excel = r"C:\FIRDAUS\LOCAL DISK D\Belajar Python\Python Sertifikat\sertifikat_nyoba.xlsx"
 word_template = r"C:\FIRDAUS\LOCAL DISK D\Belajar Python\Python Sertifikat\Sertifikat.docx"
 
