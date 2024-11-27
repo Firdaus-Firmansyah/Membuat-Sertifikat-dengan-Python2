@@ -1,6 +1,6 @@
 # Sertifikat Generator Microsoft Excel to Microsoft Word
 
-## Deskripsii
+## Deskripsi
 Sertifikat Generator adalah program Python yang memungkinkan pembuatan sertifikat secara otomatis dari data yang disimpan dalam file Excel. Program ini menggunakan dua library utama:
 - `openpyxl`: untuk membaca data dari file Excel.
 - `docxtpl`: untuk memanipulasi template dokumen Word dan menghasilkan sertifikat berdasarkan data yang diambil.
