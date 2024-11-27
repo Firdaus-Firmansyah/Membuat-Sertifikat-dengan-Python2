@@ -51,4 +51,4 @@ for value_tuple in get_values[1:]:  # Menghindari header, mulai dari baris kedua
             doc.save(doc_name)
             print(f"File {doc_name} berhasil dibuat.")
         else:
-            print(f"Baris data {value_tuple} tidak ")
+            print(f"Baris data {value_tuple} tidak memiliki cukup kolom.")
